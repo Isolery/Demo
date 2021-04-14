@@ -10,3 +10,4 @@ feature0
 feature1feature1.
 
 release v1.0
+bug0
